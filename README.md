@@ -7,6 +7,7 @@ Dokumentasi pengalaman belajar saya tahun 2025.
   - Mempelajari pengetahuan umum mengenai Git<br>
   - Eksplorasi UI Github<br>
   - Memahami & Mempraktekkan workflow Github.<br>
+
 ### 20 Juni 2023<br>
 - ***Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)***
   - Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
